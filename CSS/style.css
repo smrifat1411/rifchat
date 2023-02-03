@@ -233,3 +233,9 @@ body {
   @media only screen and (max-width: 56.25em) {
     .legal {
       display: none; } }
+
+.gallery {
+  display: flex; }
+  .gallery__photo {
+    width: 100%;
+    display: block; }

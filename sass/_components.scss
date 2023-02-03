@@ -229,3 +229,14 @@
         display: none;
     }
 }
+
+////////////////////////////////////////
+// GALLERY
+.gallery {
+    display: flex;
+
+    &__photo {
+        width: 100%;
+        display: block;
+    }
+}
