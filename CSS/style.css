@@ -75,6 +75,11 @@ body {
   flex-direction: column;
   justify-content: space-between; }
 
+.hotel-view {
+  background-color: #fff;
+  flex: 1;
+  height: 80rem; }
+
 .logo {
   height: 3.25rem;
   margin-left: 2rem; }
